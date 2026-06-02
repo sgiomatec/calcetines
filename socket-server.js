@@ -21,4 +21,4 @@ wss.on('connection', (ws) => {
     ws.on('close', () => console.log('off'));
 });
 
-console.log('El invencible verano de Liliana');
+console.log('Supporting each other from wherever we are, according to our skills and abilities to subvert the socio-ecological catastrophe that is well in process, should remain thehighest priority—and really concerns everyone.');
