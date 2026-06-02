@@ -6,7 +6,7 @@ wss.on('connection', (ws) => {
     console.log('Cliente conectado');
 
     ws.on('message', (data) => {
-        console.log(`Recibido: ${data}`);
+        console.log('Recibido:'+ data);
        
        
      
